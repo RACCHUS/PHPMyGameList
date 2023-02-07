@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Thief II: The Metal Age"
+  },
+  {
+    "id": 2,
+    "name": "Thief: The Dark Project",
+    "genre": "Point-and-click"
+  },
+  {
+    "id": 3,
+    "name": "Thief: Deadly Shadows"
+  },
+  {
+    "id": 4,
+    "name": "Thief",
+    "genre": "Fighting"
+  },
+  {
+    "id": 5,
+    "name": "Baldur's Gate",
+    "genre": "Shooter"
+  },
+  {
+    "id": 6,
+    "name": "Baldur's Gate II: Shadows of Amn"
+  },
+  {
+    "id": 7,
+    "name": "Jagged Alliance",
+    "genre": "Music"
+  },
+  {
+    "id": 8,
+    "name": "Jagged Alliance: Deadly Games",
+    "genre": "Platform"
+  },
+  {
+    "id": 9,
+    "name": "Jagged Alliance 2",
+    "genre": "Puzzle"
+  },
+  {
+    "id": 10,
+    "name": "Jade Empire: Special Edition",
+    "genre": "Racing"
+  }
+]
